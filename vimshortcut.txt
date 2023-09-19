@@ -1,3 +1,5 @@
+SOME KEYS THAT CAN HELP YOU NAGIVATE THROUGH THE FILE
+
 j k h l / arrow keys - to navigate through the file using vim
 i - lets you insert text wherever the cursor currently is
 o - creates a new line under where your cursor and allows to insert text
