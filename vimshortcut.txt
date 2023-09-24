@@ -14,3 +14,4 @@ dd - will delete the current line where cursor is located
 u - this will undo the last change made
 shift+g - takes you to the bottom of a file
 gg - will take you to the top of a file
+.
